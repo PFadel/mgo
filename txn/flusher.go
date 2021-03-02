@@ -3,9 +3,9 @@ package txn
 import (
 	"fmt"
 
-	mgo "github.com/globalsign/mgo"
+	mgo "github.com/PFadel/mgo"
 
-	"github.com/globalsign/mgo/bson"
+	"github.com/PFadel/mgo/bson"
 )
 
 func flush(r *Runner, t *transaction) error {

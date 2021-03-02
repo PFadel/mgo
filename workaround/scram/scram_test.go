@@ -6,7 +6,7 @@ import (
 
 	"strings"
 
-	"github.com/globalsign/mgo/internal/scram"
+	"github.com/PFadel/mgo/workaround/scram"
 	. "gopkg.in/check.v1"
 )
 

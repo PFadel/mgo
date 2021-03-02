@@ -46,7 +46,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/globalsign/mgo/bson"
+	"github.com/PFadel/mgo/bson"
 )
 
 // Mode read preference mode. See Eventual, Monotonic and Strong for details
